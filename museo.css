@@ -8,12 +8,15 @@ body{
 
     width: 960px;
     border:  3px solid rgb(255, 255, 255);
-    padding-top:100px;
+    padding-top:50px;
     padding-left: 50px;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
     padding-right: 50px;
     margin: 0 auto;
+
 }
+
+
 
 img{
 
@@ -27,4 +30,10 @@ img{
 }
 .Parrafo{
     font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.Parrafo2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
 }
